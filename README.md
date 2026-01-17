@@ -1,2 +1,2 @@
 # ZOMBI-TOOLS
-Automatically solve ZombiU keypad puzzles with adjustable speed, custom overlay themes, see-through mode, an on-screen crosshair, a built-in speedrun timer, and many additional tools.
+A multifunction ZombiU tool offering automatic keypad puzzle solving, speed control, custom overlays, transparent mode, crosshair overlay, speedrun timer, and more.
