@@ -1,1 +1,2 @@
-
+⚠️ WARNING: The Python scripts in this folder contain known bugs.  
+Please avoid executing them to prevent unexpected behavior.
